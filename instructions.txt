@@ -1,0 +1,7 @@
+--- How to use the vending_machine ---
+
+Step 1. Unzip the files
+Step 2. Open the command prompt (terminal on Mac), on your computer
+Step 3. Using the command prompt (terminal on Mac) navigate to the vending_machine folder on your computer
+Step 4. Type ruby init.rb
+Step 5. Follow the instructions as prompted

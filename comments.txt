@@ -1,0 +1,10 @@
+-- Vending Machine console application --
+
+The vending machine application I have created is a console application. The vending machine provides messages and 
+instructions to the user guiding them through the flow of the application. I used 3 separate classes for the 
+application to provide a separation of concerns and act as much like a real vending machine as possible. There is a 
+VendingMachine class, an Interface class and a DrinkType class. Each class is documented with details on how they work.
+
+If I had more time, I would've refactored the code so the currency denominations throughout the application were more
+user friendly. They currently appear in pence alone, although the behaviour is working as required.
+
