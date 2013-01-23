@@ -1,4 +1,4 @@
 VendingMachine
 ==============
 
-Vending Machine built in Ruby
+Vending Machine built for fun in Ruby.
